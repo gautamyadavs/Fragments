@@ -1,10 +1,10 @@
 # Fragments
 
-Fragment is an illusion and puzzle game made as a part of computer graphics project.
+Fragment is an illusion and puzzle game 3D made as a part of computer graphics project in Unity Game Engine.
 
 Be sure to read the "About" in the game to know how the game functions.
 
-You can play the game [here]().
+You can play the game [here](https://drive.google.com/open?id=0B-1dcKLROAgSZmVaZ1FnZXh3bUU).
 
 
 
