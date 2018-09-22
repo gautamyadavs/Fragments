@@ -12,7 +12,7 @@ Made with love,
 Baby Punching Kangaroo
 
 Members:
-Narosenla Longkumer
+Narosenla Longkumer,
 Gautam Yadav
 and Arpit Jain
 
